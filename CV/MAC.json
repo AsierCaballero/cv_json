@@ -1,0 +1,338 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.5"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Asier",
+      "surnames": "Caballero",
+      "title": "Senior DevOps Engineer",
+      "description": "Con más de 9 años de experiencia en consultoría tecnológica, he desarrollado una sólida trayectoria como Sysadmin y especialista en DevOps, liderando proyectos complejos que abarcan desde la gestión integral de entornos cloud hasta la automatización avanzada de procesos. Mi enfoque se centra en la innovación y la eficiencia operativa, utilizando un conjunto diverso de herramientas y tecnologías para ofrecer soluciones personalizadas que impulsan el éxito empresarial.\n\nExperiencia Destacada\n\n- Despliegue y Gestión de Entornos Cloud: Experto en la implementación y administración de plataformas cloud como Azure y AWS, optimizando la infraestructura para garantizar escalabilidad y rendimiento.\n\n- Migraciones Cloud: He liderado exitosamente la transición de sistemas on-premise a nubes públicas y privadas, asegurando una migración fluida con mínima interrupción del servicio.\n\n- Infraestructura como Código (IaC): Especializado en el uso de Terraform, Bicep, y Ansible para desplegar infraestructuras robustas y repetibles, acelerando el tiempo de entrega y reduciendo errores humanos.\n\n- Automatización y Supervisión: Desarrollador de soluciones automatizadas en Python y Bash, con experiencia en herramientas como Jenkins, Azure DevOps, y ArgoCD para optimizar los flujos de trabajo CI/CD.\n\n- Desarrollos a Medida: He diseñado e implementado soluciones personalizadas que se alinean con las necesidades específicas del negocio, utilizando tecnologías emergentes como Kubernetes y Docker.\n\n- PMO para Soluciones Cloud: Lidero la Oficina de Gestión de Proyectos (PMO) para iniciativas cloud, asegurando que los proyectos se ejecuten dentro del presupuesto, a tiempo y con los estándares de calidad más altos.\n\nMi compromiso es proporcionar soluciones tecnológicas que no solo satisfagan las necesidades actuales del negocio sino que también anticipen futuras oportunidades. Estoy siempre en busca de nuevos desafíos donde pueda aplicar mis habilidades para generar un impacto significativo.",
+      "avatar": {
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/10/12/f01bb481-e120-4150-b6c6-4e933a3c3855_captura-de-pantalla-.png",
+        "alt": "Captura de pantalla 2024-10-12 a las 10.45.36.png"
+      },
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJLSHbT8RZcg0RzzLKyZLcJWA)",
+        "country": "España",
+        "region": "Andalucía",
+        "municipality": "Málaga"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/asier-caballero-a20b96178/"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "hsi Group ☁️"
+        },
+        "roles": [
+          {
+            "name": "Senior DevOps Engineer",
+            "startDate": "2024-06-01",
+            "challenges": [
+              {
+                "description": "Skills: Azure Kubernetes Service (AKS) · Docker · Microsoft Office · Git · Metodologías ágiles · Directorio activo · Azure Active Directory · Automatización · Infraestructura como código (IaC) · Terraform · Integración continua y entrega continua (CI/CD) · Administración de sistemas Linux · Kubernetes · Cloud Computing · Administración de sistemas · DevOps · Gestión de proyectos · Powershell · Scrum · Microsoft Azure · Azure DevOps · Bash"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "PwC España"
+        },
+        "roles": [
+          {
+            "name": "DevOps Engineer",
+            "startDate": "2022-05-01",
+            "finishDate": "2024-06-30",
+            "challenges": [
+              {
+                "description": "Skills: Azure Kubernetes Service (AKS) · Seguridad informática · Docker · Nginx · Microsoft Office · Git · Metodologías ágiles · JFrog · Directorio activo · Trabajo en equipo · Windows Server · Azure Active Directory · Automatización · Infraestructura como código (IaC) · Terraform · Integración continua y entrega continua (CI/CD) · Administración de sistemas Linux · Kubernetes · Análisis de sistemas · Python · Gsuite · Cloud Computing · Administración de sistemas · JIRA · DevOps · Gestión de proyectos · Powershell · Azure Synapse Analytics · Scrum · Microsoft Azure · Azure DevOps · Bash · Virtualización · Administración de servidores · Linux"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Factoría Kreativa"
+        },
+        "roles": [
+          {
+            "name": "Administrador de sistemas",
+            "startDate": "2021-11-01",
+            "finishDate": "2022-02-28",
+            "challenges": [
+              {
+                "description": "Skills: Seguridad informática · Nginx · Telecomunicaciones · Microsoft Office · Git · Metodologías ágiles · Directorio activo · Trabajo en equipo · Windows Server · Azure Active Directory · Automatización · Análisis de sistemas · Gsuite · Cloud Computing · Administración de sistemas · JIRA · Powershell · Scrum · Microsoft Azure · Bash · Administración de servidores · Linux"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "SOMOS - Marketing y Consultoría Digital"
+        },
+        "roles": [
+          {
+            "name": "Administrador de sistemas",
+            "startDate": "2018-11-01",
+            "finishDate": "2021-11-30",
+            "challenges": [
+              {
+                "description": "Skills: Seguridad informática · Nginx · Telecomunicaciones · Microsoft Office · Git · Metodologías ágiles · Directorio activo · Trabajo en equipo · Windows Server · Azure Active Directory · Automatización · Análisis de sistemas · Gsuite · Cloud Computing · Administración de sistemas · JIRA · Powershell · Scrum · Microsoft Azure · Bash · Virtualización · Administración de servidores · Linux"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Accenture"
+        },
+        "roles": [
+          {
+            "name": "Administrador de sistemas",
+            "startDate": "2018-08-01",
+            "finishDate": "2018-10-31",
+            "challenges": [
+              {
+                "description": "Skills: Seguridad informática · Cisco Networking · Microsoft Office · Directorio activo · Trabajo en equipo · Windows Server · Azure Active Directory · Administración de sistemas Linux · Análisis de sistemas · Seguridad de red · Gsuite · Administración de sistemas · Powershell · Microsoft Azure · Bash · VMware · Administración de servidores · Linux"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Conecta Sistemas S.L"
+        },
+        "roles": [
+          {
+            "name": "Administrador de sistemas",
+            "startDate": "2018-01-01",
+            "finishDate": "2018-05-31",
+            "challenges": [
+              {
+                "description": "Skills: Seguridad informática · Cisco Networking · Microsoft Office · Directorio activo · Trabajo en equipo · Windows Server · Azure Active Directory · Administración de sistemas Linux · Seguridad de red · Gsuite · Administración de sistemas · VMware · Virtualización · Administración de servidores · Linux"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Tetra Pak"
+        },
+        "roles": [
+          {
+            "name": "Técnico de sistemas",
+            "startDate": "2015-03-01",
+            "finishDate": "2018-01-31",
+            "challenges": [
+              {
+                "description": "Skills: Seguridad informática · Cisco Networking · Microsoft Office · Trabajo en equipo · Administración de sistemas Linux · Seguridad de red · Administración de sistemas · SAP ERP · Powershell · VMware · Virtualización · Administración de servidores"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "EN",
+        "fullName": "Inglés",
+        "level": "Professional working proficiency"
+      },
+      {
+        "name": "ES",
+        "fullName": "Español",
+        "level": "Native or bilingual proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "AWS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Azure",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Bash",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Elasticsearch",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Google Cloud",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jenkins",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jira",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kubernetes",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Linux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Microsoft Office 365",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Microsoft Power BI",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Nginx",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PowerShell",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SAP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Terraform",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Ciclo Formativo de Grado Superior, Tecnico superior en administración de sistemas informáticos en red",
+        "startDate": "2012-09-01",
+        "institution": {
+          "name": "IES Valle Inclan"
+        },
+        "finishDate": "2014-06-01"
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://www.linkedin.com/in/asier-caballero-a20b96178/",
+          "type": "linkedin"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredRoles": [
+        "DevOps & Infrastructure & SRE",
+        "IT Manager",
+        "Product Owner",
+        "SysAdmin"
+      ]
+    },
+    "status": "searchingActively",
+    "requirements": {
+      "contractTypes": [
+        "permanent",
+        "freelance"
+      ]
+    }
+  },
+  "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "Azure",
+        "type": "technology"
+      },
+      {
+        "name": "Elasticsearch",
+        "type": "technology"
+      },
+      {
+        "name": "Kubernetes",
+        "type": "technology"
+      },
+      {
+        "name": "Python",
+        "type": "technology"
+      },
+      {
+        "name": "Terraform",
+        "type": "technology"
+      }
+    ]
+  }
+}
