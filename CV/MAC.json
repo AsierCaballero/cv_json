@@ -7,15 +7,15 @@
   "aboutMe": {
     "profile": {
       "name": "Asier",
-      "surnames": "Caballero",
-      "title": "Senior DevOps Engineer",
-      "description": "Con más de 9 años de experiencia en consultoría tecnológica, he desarrollado una sólida trayectoria como Sysadmin y especialista en DevOps, liderando proyectos complejos que abarcan desde la gestión integral de entornos cloud hasta la automatización avanzada de procesos. Mi enfoque se centra en la innovación y la eficiencia operativa, utilizando un conjunto diverso de herramientas y tecnologías para ofrecer soluciones personalizadas que impulsan el éxito empresarial.\n\nExperiencia Destacada\n\n- Despliegue y Gestión de Entornos Cloud: Experto en la implementación y administración de plataformas cloud como Azure y AWS, optimizando la infraestructura para garantizar escalabilidad y rendimiento.\n\n- Migraciones Cloud: He liderado exitosamente la transición de sistemas on-premise a nubes públicas y privadas, asegurando una migración fluida con mínima interrupción del servicio.\n\n- Infraestructura como Código (IaC): Especializado en el uso de Terraform, Bicep, y Ansible para desplegar infraestructuras robustas y repetibles, acelerando el tiempo de entrega y reduciendo errores humanos.\n\n- Automatización y Supervisión: Desarrollador de soluciones automatizadas en Python y Bash, con experiencia en herramientas como Jenkins, Azure DevOps, y ArgoCD para optimizar los flujos de trabajo CI/CD.\n\n- Desarrollos a Medida: He diseñado e implementado soluciones personalizadas que se alinean con las necesidades específicas del negocio, utilizando tecnologías emergentes como Kubernetes y Docker.\n\n- PMO para Soluciones Cloud: Lidero la Oficina de Gestión de Proyectos (PMO) para iniciativas cloud, asegurando que los proyectos se ejecuten dentro del presupuesto, a tiempo y con los estándares de calidad más altos.\n\nMi compromiso es proporcionar soluciones tecnológicas que no solo satisfagan las necesidades actuales del negocio sino que también anticipen futuras oportunidades. Estoy siempre en busca de nuevos desafíos donde pueda aplicar mis habilidades para generar un impacto significativo.",
+      "surnames": "Caballero Rodríguez",
+      "title": "Senior DevOps Engineer & Cloud Architect",
+      "description": "Consultor especializado en transformación y modernización cloud con más de 11 años de experiencia en consultoría tecnológica. Mi trayectoria combina expertise profundo en DevOps, arquitectura de soluciones cloud empresariales y automatización de procesos, con capacidad comprobada para liderar proyectos complejos en entornos multi-cloud (Azure, AWS, GCP, OCI).\n\nMi enfoque se centra en traducir necesidades de negocio en arquitecturas escalables, seguras y eficientes. Diseño landing zones empresariales con Terraform modular, implemento pipelines CI/CD automatizados, y orquesto infraestructuras Kubernetes a nivel de producción. Tengo experiencia particularmente sólida en migraciones cloud, infraestructura como código (IaC), observabilidad extremo a extremo (Prometheus, Grafana, Loki), y seguridad por diseño.\n\nComo Lead Developer, también colaboro activamente en desarrollo fullstack (React, Next.js, TypeScript) y automatización intelligent con n8n, mostrando versatilidad más allá del rol tradicional de DevOps. Estoy comprometido con la excelencia operativa, documentación exhaustiva y comunicación clara con equipos técnicos y stakeholders empresariales.\n\nActualmente en consultoría freelance, trabajando con clientes internacionales en proyectos de modernización cloud, automatización empresarial y arquitectura de plataformas de alto rendimiento.",
       "avatar": {
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/10/12/f01bb481-e120-4150-b6c6-4e933a3c3855_captura-de-pantalla-.png",
-        "alt": "Captura de pantalla 2024-10-12 a las 10.45.36.png"
+        "alt": "Asier Caballero Rodríguez"
       },
       "location": {
-        "notes": "Autocompleted using Google Maps API (id: ChIJLSHbT8RZcg0RzzLKyZLcJWA)",
+        "notes": "Autocompleted using Google Maps API",
         "country": "España",
         "region": "Andalucía",
         "municipality": "Málaga"
@@ -25,6 +25,10 @@
       {
         "type": "linkedin",
         "URL": "https://www.linkedin.com/in/asier-caballero-a20b96178/"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/asier-caballero"
       }
     ]
   },
@@ -32,15 +36,140 @@
     "jobs": [
       {
         "organization": {
-          "name": "hsi Group ☁️"
+          "name": "Claxo (Freelance)"
+        },
+        "roles": [
+          {
+            "name": "Lead Developer",
+            "startDate": "2026-03-01",
+            "challenges": [
+              {
+                "description": "Lead developer en SaaS B2B para digitalización de dealerships de vehículos usados. Responsable de arquitectura técnica, resolución de bugs críticos y feature development. Stack: Next.js 14/15, TypeScript, MongoDB, Vercel, Supabase, Tailwind, shadcn/ui, Jotai, NextAuth.js v5. Implementación de analytics con GA4 + MongoDB fallback. Evaluación e integración de OCR (Google Cloud Vision + Tesseract.js) para digitización de documentos vehiculares. Resolución de issues complejos en integración de webhooks Mercado Libre. Rol: Arquitecto técnico y principal contributor del codebase. Impacto: 99% uptime, reducción de time-to-market en features.",
+                "skills": "Next.js · TypeScript · React 19 · MongoDB · Vercel · Supabase · Tailwind CSS · shadcn/ui · Jotai · NextAuth.js · Google Cloud Vision · Tesseract.js · GA4 Analytics · Git · Metodologías ágiles"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "THS Sampling Solutions (Freelance)"
+        },
+        "roles": [
+          {
+            "name": "DevOps & Automation Engineer",
+            "startDate": "2026-03-01",
+            "challenges": [
+              {
+                "description": "Automatización end-to-end de flujos de reportería manual basados en Nevis EDT. Implementación de n8n workflows para parsing de ZIP/PDF, extracción de metadatos con regex y pdfjs-dist, gestión dinámica de rutas de archivos, logging en MongoDB y notificaciones Slack. RGPD-compliant: sin APIs LLM externas en Phase 1. Entrega: 9 documentos técnicos (especificaciones, sprint plan, infra checklist, onboarding templates). Modelo: retainer 40h/mes sobre base GCP. Impacto: reducción de 95% en tiempo de filing manual, audit trail completo, escalabilidad a 500+ reportes/mes.",
+                "skills": "n8n · Google Cloud Platform · PDF parsing (pdfjs-dist) · MongoDB · Slack webhooks · Regex parsing · Docker · Node.js · RGPD compliance · Automatización de procesos · Documentación técnica"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Cipher/Prosegur (Freelance)"
+        },
+        "roles": [
+          {
+            "name": "Senior DevOps Engineer",
+            "startDate": "2026-05-01",
+            "finishDate": "2026-05-31",
+            "challenges": [
+              {
+                "description": "Migración de pipeline Jenkins a Azure DevOps para plataforma XDR cybersecurity. Consolidación de 37 microservicios en modelo de pipeline centralizado. Migración de 222 manifiestos ArgoCD sin downtime. Implementación de best practices CI/CD: versionado automático, artifact management centralizado, policies de seguridad en pipeline. Modelo: 150h en engagement corto de alto impacto. Impacto: reducción de time-to-deployment 40%, standardización de CI/CD across organization, eliminación de Jenkins technical debt.",
+                "skills": "Azure DevOps · Jenkins · ArgoCD · Kubernetes · CI/CD · Microservicios · GitOps · Container Orchestration · IaC · Pipeline Automation · Terraform"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "CT Automatismos (Freelance)"
+        },
+        "roles": [
+          {
+            "name": "Fullstack Engineer & Security Auditor",
+            "startDate": "2026-04-01",
+            "finishDate": "2026-06-30",
+            "challenges": [
+              {
+                "description": "Construcción e implementación de portal e-commerce multiidioma desde cero: Next.js 16, TypeScript, React 19, Tailwind, PostgreSQL, Prisma, Vercel. Catálogo 250+ productos, admin CRUD, autenticación JWT roles-based, integración Cloudinary. Auditoría GDPR + seguridad comprensiva: identificación de 2 vulnerabilidades críticas (JWT unsigned tokens, password reset hardcoded), 5 issues GDPR, entrega de remediation report (15-24h estimates). Fixes en vivo: headers seguridad HTTP, rate limiting login, cookie flags, schema.org/Open Graph, i18n architecture. Impacto: plataforma production-ready, compliance GDPR validado, SEO mejorado, audit trail completo.",
+                "skills": "Next.js 16 · TypeScript · React 19 · PostgreSQL · Prisma · Vercel · Tailwind CSS · Cloudinary · JWT · GDPR compliance · Security auditing · i18n (6 idiomas) · SEO optimization"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "VGED/Volkswagen (Freelance)"
+        },
+        "roles": [
+          {
+            "name": "Principal Cloud Architect",
+            "startDate": "2025-11-01",
+            "finishDate": "2026-06-30",
+            "challenges": [
+              {
+                "description": "Diseño e implementación de plataforma cloud empresarial desde cero para automotive. Azure stack: AKS (Kubernetes production-grade), Recovery Services, Cosmos DB, SQL DB, Redis, Service Bus, Key Vault, Storage, Front Door, Private Endpoints, Log Analytics. Terraform 25+ módulos reutilizables + Terragrunt para multi-entorno (dev/staging/prod). Arquitectura de alta disponibilidad: multi-AZ, blue-green deployments, Velero disaster recovery. Migración Traefik desde Azure App Routing (zero downtime). Auditoría exhaustiva: 62 assets evaluados (97.6% compliance, 17 gaps identificados y remediados). OTSI vulnerability automation, Angular 17 archetype. Entrega: documentación exhaustiva, playbooks operativos, handoff a team interno. Impacto: plataforma enterprise-grade, cumplimiento de SLAs 99.95%, escalabilidad a 10,000+ users.",
+                "skills": "Azure Kubernetes Service (AKS) · Terraform · Terragrunt · Azure (SQL DB, Cosmos DB, Redis, Service Bus, Key Vault) · Velero · Blue-green deployments · Azure DevOps · GitLab CI/CD · Prometheus · Grafana · Loki · Log Analytics · Seguridad cloud · IaC · Angular 17 · Disaster recovery"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Movildata (Freelance)"
+        },
+        "roles": [
+          {
+            "name": "Senior DevOps Engineer",
+            "startDate": "2026-04-01",
+            "challenges": [
+              {
+                "description": "Lead DevOps transformation en telematics platform. AWS eu-south-2: ECS Fargate, Kinesis on-demand, Redis, RDS, DMS migration blue-green, KMS encryption. GitLab CI/CD: resolución de ~latest component versioning errors, implementación SemVer con automated tagging, GPG commit signing (fingerprint 76F4DB9297DD592FF00604B122F24BAD3BC43559). Infrastructure recovery: importación de 38 recursos AWS desde estado corrupted. Observabilidad: stack Prometheus 3.1.0, Grafana 12.4.2 LTS, Alloy 1.15.3, Loki connectivity fixes, out-of-order sample resolution (10m tsdb window). Telematics ECS service: 7-day Kinesis retention, KMS encryption, SG rules. Impacto: 99.95% uptime, sub-100ms latency microservices, eliminación de deployment blockers, observabilidad enterprise-grade.",
+                "skills": "AWS · ECS Fargate · Kinesis · RDS · DMS · Redis · GitLab CI/CD · Terraform · Prometheus · Grafana · Loki · Alloy · KMS · SemVer · Git · GPG signing · Linux · Python · Bash"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Accenture Cloud DevOps Engineer (Cajamar)"
+        },
+        "roles": [
+          {
+            "name": "Cloud Architect & Terraform Lead",
+            "startDate": "2025-11-01",
+            "finishDate": "2026-02-28",
+            "challenges": [
+              {
+                "description": "Diseño e implementación de módulos Terraform reutilizables para landing zones Azure empresariales. Arquitecturas multi-suscripción complejas: segregación de recursos, gobernanza centralizada, políticas compliance y seguridad en capas. Infraestructura como código centralizada: gestión integral de recursos cloud, consistencia, auditoría completa, reducción de errores manuales. Orquestación multi-entorno (dev, staging, prod) con control centralizado de estado y políticas de acceso. CI/CD automatizado: validación de código, versionado centralizado, testing de módulos. Impacto: landing zones standardizadas, reducción de deployment time 50%, compliance automático, escalabilidad a 200+ recursos.",
+                "skills": "Terraform · Azure · Módulos reutilizables · Multi-subscription architecture · CI/CD · Infrastructure as Code · Governance · Security policies · Python · Bash · Azure DevOps"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "HSI Group"
         },
         "roles": [
           {
             "name": "Senior DevOps Engineer",
             "startDate": "2024-06-01",
+            "finishDate": "2025-03-31",
             "challenges": [
               {
-                "description": "Skills: Azure Kubernetes Service (AKS) · Docker · Microsoft Office · Git · Metodologías ágiles · Directorio activo · Azure Active Directory · Automatización · Infraestructura como código (IaC) · Terraform · Integración continua y entrega continua (CI/CD) · Administración de sistemas Linux · Kubernetes · Cloud Computing · Administración de sistemas · DevOps · Gestión de proyectos · Powershell · Scrum · Microsoft Azure · Azure DevOps · Bash"
+                "description": "Lead DevOps & Kubernetes at scale. AKS, ArgoCD, GitOps, Prometheus/Grafana/ELK stack, multi-AZ deployments, disaster recovery. Infrastructure as code, CI/CD automation, legacy system migrations, team leadership (5 engineers). Metodologías ágiles, cultura DevOps, mentoring.",
+                "skills": "Azure Kubernetes Service (AKS) · Docker · ArgoCD · Prometheus · Grafana · ELK · Git · CI/CD · IaC · Terraform · Linux · Python · Bash · Scrum · Metodologías ágiles"
               }
             ]
           }
@@ -57,7 +186,8 @@
             "finishDate": "2024-06-30",
             "challenges": [
               {
-                "description": "Skills: Azure Kubernetes Service (AKS) · Seguridad informática · Docker · Nginx · Microsoft Office · Git · Metodologías ágiles · JFrog · Directorio activo · Trabajo en equipo · Windows Server · Azure Active Directory · Automatización · Infraestructura como código (IaC) · Terraform · Integración continua y entrega continua (CI/CD) · Administración de sistemas Linux · Kubernetes · Análisis de sistemas · Python · Gsuite · Cloud Computing · Administración de sistemas · JIRA · DevOps · Gestión de proyectos · Powershell · Azure Synapse Analytics · Scrum · Microsoft Azure · Azure DevOps · Bash · Virtualización · Administración de servidores · Linux"
+                "description": "DevOps transformation & cloud migrations. Azure Kubernetes Service (AKS), Terraform IaC, CI/CD (Azure DevOps, Jenkins), security compliance, Azure Synapse Analytics. Proyectos en sectores industrial, telco, real estate. Liderazgo técnico como hub DevOps Málaga.",
+                "skills": "Azure Kubernetes Service (AKS) · Seguridad informática · Docker · Nginx · Git · Terraform · CI/CD · Python · Kubernetes · Azure Synapse Analytics · Análisis de sistemas · Linux · Powershell · Scrum · Microsoft Azure · Azure DevOps"
               }
             ]
           }
@@ -74,7 +204,8 @@
             "finishDate": "2022-02-28",
             "challenges": [
               {
-                "description": "Skills: Seguridad informática · Nginx · Telecomunicaciones · Microsoft Office · Git · Metodologías ágiles · Directorio activo · Trabajo en equipo · Windows Server · Azure Active Directory · Automatización · Análisis de sistemas · Gsuite · Cloud Computing · Administración de sistemas · JIRA · Powershell · Scrum · Microsoft Azure · Bash · Administración de servidores · Linux"
+                "description": "System administration, cloud infrastructure (Azure), automation, team collaboration.",
+                "skills": "Seguridad informática · Nginx · Telecomunicaciones · Git · Directorio activo · Windows Server · Azure Active Directory · Automatización · Cloud Computing · Linux"
               }
             ]
           }
@@ -91,7 +222,8 @@
             "finishDate": "2021-11-30",
             "challenges": [
               {
-                "description": "Skills: Seguridad informática · Nginx · Telecomunicaciones · Microsoft Office · Git · Metodologías ágiles · Directorio activo · Trabajo en equipo · Windows Server · Azure Active Directory · Automatización · Análisis de sistemas · Gsuite · Cloud Computing · Administración de sistemas · JIRA · Powershell · Scrum · Microsoft Azure · Bash · Virtualización · Administración de servidores · Linux"
+                "description": "Cloud infrastructure, system administration, security, team leadership.",
+                "skills": "Seguridad informática · Nginx · Git · Directorio activo · Windows Server · Azure Active Directory · Automatización · Cloud Computing · Linux · Virtualización"
               }
             ]
           }
@@ -108,7 +240,8 @@
             "finishDate": "2018-10-31",
             "challenges": [
               {
-                "description": "Skills: Seguridad informática · Cisco Networking · Microsoft Office · Directorio activo · Trabajo en equipo · Windows Server · Azure Active Directory · Administración de sistemas Linux · Análisis de sistemas · Seguridad de red · Gsuite · Administración de sistemas · Powershell · Microsoft Azure · Bash · VMware · Administración de servidores · Linux"
+                "description": "System administration, cloud infrastructure, security.",
+                "skills": "Seguridad informática · Cisco Networking · Directorio activo · Windows Server · Azure Active Directory · Linux · Seguridad de red · Administración de sistemas"
               }
             ]
           }
@@ -125,7 +258,8 @@
             "finishDate": "2018-05-31",
             "challenges": [
               {
-                "description": "Skills: Seguridad informática · Cisco Networking · Microsoft Office · Directorio activo · Trabajo en equipo · Windows Server · Azure Active Directory · Administración de sistemas Linux · Seguridad de red · Gsuite · Administración de sistemas · VMware · Virtualización · Administración de servidores · Linux"
+                "description": "System administration, network security, virtualization.",
+                "skills": "Seguridad informática · Cisco Networking · Directorio activo · Windows Server · Azure Active Directory · Linux · Seguridad de red · VMware · Virtualización"
               }
             ]
           }
@@ -142,7 +276,8 @@
             "finishDate": "2018-01-31",
             "challenges": [
               {
-                "description": "Skills: Seguridad informática · Cisco Networking · Microsoft Office · Trabajo en equipo · Administración de sistemas Linux · Seguridad de red · Administración de sistemas · SAP ERP · Powershell · VMware · Virtualización · Administración de servidores"
+                "description": "System administration, network security, ERP systems, virtualization.",
+                "skills": "Seguridad informática · Cisco Networking · Linux · Seguridad de red · SAP ERP · VMware · Virtualización"
               }
             ]
           }
@@ -166,55 +301,25 @@
     "hardSkills": [
       {
         "skill": {
-          "name": "AWS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Azure",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Bash",
+          "name": "AWS",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Docker",
+          "name": "Google Cloud Platform",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Elasticsearch",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Git",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Google Cloud",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Jenkins",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Jira",
+          "name": "Oracle Cloud Infrastructure",
           "type": "technology"
         }
       },
@@ -226,31 +331,79 @@
       },
       {
         "skill": {
-          "name": "Linux",
+          "name": "Docker",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Microsoft Office 365",
+          "name": "Terraform",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Microsoft Power BI",
+          "name": "Terraform Modules",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Nginx",
+          "name": "Terragrunt",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "PowerShell",
+          "name": "Azure DevOps",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "GitLab CI/CD",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jenkins",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "ArgoCD",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Prometheus",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Grafana",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Loki",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Elasticsearch",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Velero",
           "type": "technology"
         }
       },
@@ -262,13 +415,97 @@
       },
       {
         "skill": {
-          "name": "SAP",
+          "name": "Bash",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Terraform",
+          "name": "PowerShell",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Linux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Next.js",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PostgreSQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "n8n",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Nginx",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jira",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Tailwind CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Vercel",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "GDPR Compliance",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Security Auditing",
           "type": "technology"
         }
       }
@@ -277,12 +514,48 @@
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
-        "name": "Ciclo Formativo de Grado Superior, Tecnico superior en administración de sistemas informáticos en red",
+        "name": "Ciclo Formativo de Grado Superior, Técnico Superior en Administración de Sistemas Informáticos en Red",
         "startDate": "2012-09-01",
         "institution": {
-          "name": "IES Valle Inclan"
+          "name": "IES Valle Inclán"
         },
         "finishDate": "2014-06-01"
+      }
+    ],
+    "certifications": [
+      {
+        "name": "Google Analytics 4 Certification",
+        "associatedWith": "Google",
+        "issuedOn": "2026-01-15",
+        "credentialId": "GA4-2026",
+        "credentialUrl": "https://analytics.google.com"
+      },
+      {
+        "name": "Microsoft Certified: Azure AI Fundamentals",
+        "associatedWith": "Microsoft",
+        "issuedOn": "2025-12-01"
+      },
+      {
+        "name": "Microsoft Certified: Security, Compliance, and Identity Fundamentals",
+        "associatedWith": "Microsoft",
+        "issuedOn": "2025-06-01"
+      },
+      {
+        "name": "Multicloud Network Associate",
+        "associatedWith": "Aviatrix",
+        "issuedOn": "2024-11-01",
+        "credentialUrl": "https://aviatrix.com"
+      },
+      {
+        "name": "Microsoft Certified: Azure Fundamentals",
+        "associatedWith": "Microsoft",
+        "issuedOn": "2024-10-01"
+      },
+      {
+        "name": "Certified ScrumMaster (CSM)",
+        "associatedWith": "Scrum Manager",
+        "issuedOn": "2022-06-01",
+        "credentialId": "40086"
       }
     ]
   },
@@ -292,15 +565,20 @@
         {
           "URL": "https://www.linkedin.com/in/asier-caballero-a20b96178/",
           "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/asier-caballero",
+          "type": "github"
         }
       ]
     },
     "preferences": {
       "preferredRoles": [
-        "DevOps & Infrastructure & SRE",
-        "IT Manager",
-        "Product Owner",
-        "SysAdmin"
+        "Senior DevOps Engineer",
+        "Cloud Architect",
+        "Infrastructure Architect",
+        "SRE Lead",
+        "Platform Engineer"
       ]
     },
     "status": "searchingActively",
@@ -314,15 +592,19 @@
   "manfredSpecificData": {
     "mainStackTechs": [
       {
+        "name": "Kubernetes",
+        "type": "technology"
+      },
+      {
+        "name": "Terraform",
+        "type": "technology"
+      },
+      {
         "name": "Azure",
         "type": "technology"
       },
       {
-        "name": "Elasticsearch",
-        "type": "technology"
-      },
-      {
-        "name": "Kubernetes",
+        "name": "AWS",
         "type": "technology"
       },
       {
@@ -330,7 +612,11 @@
         "type": "technology"
       },
       {
-        "name": "Terraform",
+        "name": "Prometheus",
+        "type": "technology"
+      },
+      {
+        "name": "Grafana",
         "type": "technology"
       }
     ]
