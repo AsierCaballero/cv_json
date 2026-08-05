@@ -56,7 +56,7 @@
             "finishDate": "2026-06-30",
             "challenges": [
               {
-                "description": "Construcción e implementación de portal e-commerce multiidioma desde cero: Next.js 16, TypeScript, React 19, Tailwind, PostgreSQL, Prisma, Vercel. Catálogo 250+ productos, admin CRUD, autenticación JWT roles-based, integración Cloudinary. Auditoría GDPR + seguridad comprensiva: identificación de 2 vulnerabilidades críticas (JWT unsigned tokens, password reset hardcoded), 5 issues GDPR, entrega de remediation report (15-24h estimates). Fixes en vivo: headers seguridad HTTP, rate limiting login, cookie flags, schema.org/Open Graph, i18n architecture. Impacto: plataforma production-ready, compliance GDPR validado, SEO mejorado, audit trail completo."
+                "description": "Construcción e implementación de portal e-commerce multiidioma desde cero: Next.js 16, TypeScript, React 19, Tailwind, PostgreSQL, Prisma, Vercel. Catálogo 250+ productos, admin CRUD, autenticación JWT roles-based, integración Cloudinary. Auditoría GDPR + seguridad comprensiva, entrega de remediation report (15-24h estimates). Fixes en vivo: headers seguridad HTTP, rate limiting login, cookie flags, schema.org/Open Graph, i18n architecture. Impacto: plataforma production-ready, compliance GDPR validado, SEO mejorado, audit trail completo."
               }
             ]
           }
