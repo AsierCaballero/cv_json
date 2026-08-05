@@ -44,8 +44,7 @@
             "startDate": "2026-03-01",
             "challenges": [
               {
-                "description": "Lead developer en SaaS B2B para digitalización de dealerships de vehículos usados. Responsable de arquitectura técnica, resolución de bugs críticos y feature development. Stack: Next.js 14/15, TypeScript, MongoDB, Vercel, Supabase, Tailwind, shadcn/ui, Jotai, NextAuth.js v5. Implementación de analytics con GA4 + MongoDB fallback. Evaluación e integración de OCR (Google Cloud Vision + Tesseract.js) para digitización de documentos vehiculares. Resolución de issues complejos en integración de webhooks Mercado Libre. Rol: Arquitecto técnico y principal contributor del codebase. Impacto: 99% uptime, reducción de time-to-market en features.",
-                "skills": "Next.js · TypeScript · React 19 · MongoDB · Vercel · Supabase · Tailwind CSS · shadcn/ui · Jotai · NextAuth.js · Google Cloud Vision · Tesseract.js · GA4 Analytics · Git · Metodologías ágiles"
+                "description": "Lead developer en SaaS B2B para digitalización de dealerships de vehículos usados. Responsable de arquitectura técnica, resolución de bugs críticos y feature development. Stack: Next.js 14/15, TypeScript, MongoDB, Vercel, Supabase, Tailwind, shadcn/ui, Jotai, NextAuth.js v5. Implementación de analytics con GA4 + MongoDB fallback. Evaluación e integración de OCR (Google Cloud Vision + Tesseract.js) para digitización de documentos vehiculares. Resolución de issues complejos en integración de webhooks Mercado Libre. Rol: Arquitecto técnico y principal contributor del codebase. Impacto: 99% uptime, reducción de time-to-market en features."
               }
             ]
           }
@@ -61,8 +60,7 @@
             "startDate": "2026-03-01",
             "challenges": [
               {
-                "description": "Automatización end-to-end de flujos de reportería manual basados en Nevis EDT. Implementación de n8n workflows para parsing de ZIP/PDF, extracción de metadatos con regex y pdfjs-dist, gestión dinámica de rutas de archivos, logging en MongoDB y notificaciones Slack. RGPD-compliant: sin APIs LLM externas en Phase 1. Entrega: 9 documentos técnicos (especificaciones, sprint plan, infra checklist, onboarding templates). Modelo: retainer 40h/mes sobre base GCP. Impacto: reducción de 95% en tiempo de filing manual, audit trail completo, escalabilidad a 500+ reportes/mes.",
-                "skills": "n8n · Google Cloud Platform · PDF parsing (pdfjs-dist) · MongoDB · Slack webhooks · Regex parsing · Docker · Node.js · RGPD compliance · Automatización de procesos · Documentación técnica"
+                "description": "Automatización end-to-end de flujos de reportería manual basados en Nevis EDT. Implementación de n8n workflows para parsing de ZIP/PDF, extracción de metadatos con regex y pdfjs-dist, gestión dinámica de rutas de archivos, logging en MongoDB y notificaciones Slack. RGPD-compliant: sin APIs LLM externas en Phase 1. Entrega: 9 documentos técnicos (especificaciones, sprint plan, infra checklist, onboarding templates). Modelo: retainer 40h/mes sobre base GCP. Impacto: reducción de 95% en tiempo de filing manual, audit trail completo, escalabilidad a 500+ reportes/mes."
               }
             ]
           }
@@ -79,8 +77,7 @@
             "finishDate": "2026-05-31",
             "challenges": [
               {
-                "description": "Migración de pipeline Jenkins a Azure DevOps para plataforma XDR cybersecurity. Consolidación de 37 microservicios en modelo de pipeline centralizado. Migración de 222 manifiestos ArgoCD sin downtime. Implementación de best practices CI/CD: versionado automático, artifact management centralizado, policies de seguridad en pipeline. Modelo: 150h en engagement corto de alto impacto. Impacto: reducción de time-to-deployment 40%, standardización de CI/CD across organization, eliminación de Jenkins technical debt.",
-                "skills": "Azure DevOps · Jenkins · ArgoCD · Kubernetes · CI/CD · Microservicios · GitOps · Container Orchestration · IaC · Pipeline Automation · Terraform"
+                "description": "Migración de pipeline Jenkins a Azure DevOps para plataforma XDR cybersecurity. Consolidación de 37 microservicios en modelo de pipeline centralizado. Migración de 222 manifiestos ArgoCD sin downtime. Implementación de best practices CI/CD: versionado automático, artifact management centralizado, policies de seguridad en pipeline. Modelo: 150h en engagement corto de alto impacto. Impacto: reducción de time-to-deployment 40%, standardización de CI/CD across organization, eliminación de Jenkins technical debt."
               }
             ]
           }
@@ -97,8 +94,7 @@
             "finishDate": "2026-06-30",
             "challenges": [
               {
-                "description": "Construcción e implementación de portal e-commerce multiidioma desde cero: Next.js 16, TypeScript, React 19, Tailwind, PostgreSQL, Prisma, Vercel. Catálogo 250+ productos, admin CRUD, autenticación JWT roles-based, integración Cloudinary. Auditoría GDPR + seguridad comprensiva: identificación de 2 vulnerabilidades críticas (JWT unsigned tokens, password reset hardcoded), 5 issues GDPR, entrega de remediation report (15-24h estimates). Fixes en vivo: headers seguridad HTTP, rate limiting login, cookie flags, schema.org/Open Graph, i18n architecture. Impacto: plataforma production-ready, compliance GDPR validado, SEO mejorado, audit trail completo.",
-                "skills": "Next.js 16 · TypeScript · React 19 · PostgreSQL · Prisma · Vercel · Tailwind CSS · Cloudinary · JWT · GDPR compliance · Security auditing · i18n (6 idiomas) · SEO optimization"
+                "description": "Construcción e implementación de portal e-commerce multiidioma desde cero: Next.js 16, TypeScript, React 19, Tailwind, PostgreSQL, Prisma, Vercel. Catálogo 250+ productos, admin CRUD, autenticación JWT roles-based, integración Cloudinary. Auditoría GDPR + seguridad comprensiva: identificación de 2 vulnerabilidades críticas (JWT unsigned tokens, password reset hardcoded), 5 issues GDPR, entrega de remediation report (15-24h estimates). Fixes en vivo: headers seguridad HTTP, rate limiting login, cookie flags, schema.org/Open Graph, i18n architecture. Impacto: plataforma production-ready, compliance GDPR validado, SEO mejorado, audit trail completo."
               }
             ]
           }
@@ -115,8 +111,7 @@
             "finishDate": "2026-06-30",
             "challenges": [
               {
-                "description": "Diseño e implementación de plataforma cloud empresarial desde cero para automotive. Azure stack: AKS (Kubernetes production-grade), Recovery Services, Cosmos DB, SQL DB, Redis, Service Bus, Key Vault, Storage, Front Door, Private Endpoints, Log Analytics. Terraform 25+ módulos reutilizables + Terragrunt para multi-entorno (dev/staging/prod). Arquitectura de alta disponibilidad: multi-AZ, blue-green deployments, Velero disaster recovery. Migración Traefik desde Azure App Routing (zero downtime). Auditoría exhaustiva: 62 assets evaluados (97.6% compliance, 17 gaps identificados y remediados). OTSI vulnerability automation, Angular 17 archetype. Entrega: documentación exhaustiva, playbooks operativos, handoff a team interno. Impacto: plataforma enterprise-grade, cumplimiento de SLAs 99.95%, escalabilidad a 10,000+ users.",
-                "skills": "Azure Kubernetes Service (AKS) · Terraform · Terragrunt · Azure (SQL DB, Cosmos DB, Redis, Service Bus, Key Vault) · Velero · Blue-green deployments · Azure DevOps · GitLab CI/CD · Prometheus · Grafana · Loki · Log Analytics · Seguridad cloud · IaC · Angular 17 · Disaster recovery"
+                "description": "Diseño e implementación de plataforma cloud empresarial desde cero para automotive. Azure stack: AKS (Kubernetes production-grade), Recovery Services, Cosmos DB, SQL DB, Redis, Service Bus, Key Vault, Storage, Front Door, Private Endpoints, Log Analytics. Terraform 25+ módulos reutilizables + Terragrunt para multi-entorno (dev/staging/prod). Arquitectura de alta disponibilidad: multi-AZ, blue-green deployments, Velero disaster recovery. Migración Traefik desde Azure App Routing (zero downtime). Auditoría exhaustiva: 62 assets evaluados (97.6% compliance, 17 gaps identificados y remediados). OTSI vulnerability automation, Angular 17 archetype. Entrega: documentación exhaustiva, playbooks operativos, handoff a team interno. Impacto: plataforma enterprise-grade, cumplimiento de SLAs 99.95%, escalabilidad a 10,000+ users."
               }
             ]
           }
@@ -132,8 +127,7 @@
             "startDate": "2026-04-01",
             "challenges": [
               {
-                "description": "Lead DevOps transformation en telematics platform. AWS eu-south-2: ECS Fargate, Kinesis on-demand, Redis, RDS, DMS migration blue-green, KMS encryption. GitLab CI/CD: resolución de ~latest component versioning errors, implementación SemVer con automated tagging, GPG commit signing (fingerprint 76F4DB9297DD592FF00604B122F24BAD3BC43559). Infrastructure recovery: importación de 38 recursos AWS desde estado corrupted. Observabilidad: stack Prometheus 3.1.0, Grafana 12.4.2 LTS, Alloy 1.15.3, Loki connectivity fixes, out-of-order sample resolution (10m tsdb window). Telematics ECS service: 7-day Kinesis retention, KMS encryption, SG rules. Impacto: 99.95% uptime, sub-100ms latency microservices, eliminación de deployment blockers, observabilidad enterprise-grade.",
-                "skills": "AWS · ECS Fargate · Kinesis · RDS · DMS · Redis · GitLab CI/CD · Terraform · Prometheus · Grafana · Loki · Alloy · KMS · SemVer · Git · GPG signing · Linux · Python · Bash"
+                "description": "Lead DevOps transformation en telematics platform. AWS eu-south-2: ECS Fargate, Kinesis on-demand, Redis, RDS, DMS migration blue-green, KMS encryption. GitLab CI/CD: resolución de ~latest component versioning errors, implementación SemVer con automated tagging, GPG commit signing (fingerprint 76F4DB9297DD592FF00604B122F24BAD3BC43559). Infrastructure recovery: importación de 38 recursos AWS desde estado corrupted. Observabilidad: stack Prometheus 3.1.0, Grafana 12.4.2 LTS, Alloy 1.15.3, Loki connectivity fixes, out-of-order sample resolution (10m tsdb window). Telematics ECS service: 7-day Kinesis retention, KMS encryption, SG rules. Impacto: 99.95% uptime, sub-100ms latency microservices, eliminación de deployment blockers, observabilidad enterprise-grade."
               }
             ]
           }
@@ -150,8 +144,7 @@
             "finishDate": "2026-02-28",
             "challenges": [
               {
-                "description": "Diseño e implementación de módulos Terraform reutilizables para landing zones Azure empresariales. Arquitecturas multi-suscripción complejas: segregación de recursos, gobernanza centralizada, políticas compliance y seguridad en capas. Infraestructura como código centralizada: gestión integral de recursos cloud, consistencia, auditoría completa, reducción de errores manuales. Orquestación multi-entorno (dev, staging, prod) con control centralizado de estado y políticas de acceso. CI/CD automatizado: validación de código, versionado centralizado, testing de módulos. Impacto: landing zones standardizadas, reducción de deployment time 50%, compliance automático, escalabilidad a 200+ recursos.",
-                "skills": "Terraform · Azure · Módulos reutilizables · Multi-subscription architecture · CI/CD · Infrastructure as Code · Governance · Security policies · Python · Bash · Azure DevOps"
+                "description": "Diseño e implementación de módulos Terraform reutilizables para landing zones Azure empresariales. Arquitecturas multi-suscripción complejas: segregación de recursos, gobernanza centralizada, políticas compliance y seguridad en capas. Infraestructura como código centralizada: gestión integral de recursos cloud, consistencia, auditoría completa, reducción de errores manuales. Orquestación multi-entorno (dev, staging, prod) con control centralizado de estado y políticas de acceso. CI/CD automatizado: validación de código, versionado centralizado, testing de módulos. Impacto: landing zones standardizadas, reducción de deployment time 50%, compliance automático, escalabilidad a 200+ recursos."
               }
             ]
           }
@@ -168,8 +161,7 @@
             "finishDate": "2025-03-31",
             "challenges": [
               {
-                "description": "Lead DevOps & Kubernetes at scale. AKS, ArgoCD, GitOps, Prometheus/Grafana/ELK stack, multi-AZ deployments, disaster recovery. Infrastructure as code, CI/CD automation, legacy system migrations, team leadership (5 engineers). Metodologías ágiles, cultura DevOps, mentoring.",
-                "skills": "Azure Kubernetes Service (AKS) · Docker · ArgoCD · Prometheus · Grafana · ELK · Git · CI/CD · IaC · Terraform · Linux · Python · Bash · Scrum · Metodologías ágiles"
+                "description": "Lead DevOps & Kubernetes at scale. AKS, ArgoCD, GitOps, Prometheus/Grafana/ELK stack, multi-AZ deployments, disaster recovery. Infrastructure as code, CI/CD automation, legacy system migrations, team leadership (5 engineers). Metodologías ágiles, cultura DevOps, mentoring."
               }
             ]
           }
@@ -186,8 +178,7 @@
             "finishDate": "2024-06-30",
             "challenges": [
               {
-                "description": "DevOps transformation & cloud migrations. Azure Kubernetes Service (AKS), Terraform IaC, CI/CD (Azure DevOps, Jenkins), security compliance, Azure Synapse Analytics. Proyectos en sectores industrial, telco, real estate. Liderazgo técnico como hub DevOps Málaga.",
-                "skills": "Azure Kubernetes Service (AKS) · Seguridad informática · Docker · Nginx · Git · Terraform · CI/CD · Python · Kubernetes · Azure Synapse Analytics · Análisis de sistemas · Linux · Powershell · Scrum · Microsoft Azure · Azure DevOps"
+                "description": "DevOps transformation & cloud migrations. Azure Kubernetes Service (AKS), Terraform IaC, CI/CD (Azure DevOps, Jenkins), security compliance, Azure Synapse Analytics. Proyectos en sectores industrial, telco, real estate. Liderazgo técnico como hub DevOps Málaga."
               }
             ]
           }
@@ -204,8 +195,7 @@
             "finishDate": "2022-02-28",
             "challenges": [
               {
-                "description": "System administration, cloud infrastructure (Azure), automation, team collaboration.",
-                "skills": "Seguridad informática · Nginx · Telecomunicaciones · Git · Directorio activo · Windows Server · Azure Active Directory · Automatización · Cloud Computing · Linux"
+                "description": "System administration, cloud infrastructure (Azure), automation, team collaboration."
               }
             ]
           }
@@ -222,8 +212,7 @@
             "finishDate": "2021-11-30",
             "challenges": [
               {
-                "description": "Cloud infrastructure, system administration, security, team leadership.",
-                "skills": "Seguridad informática · Nginx · Git · Directorio activo · Windows Server · Azure Active Directory · Automatización · Cloud Computing · Linux · Virtualización"
+                "description": "Cloud infrastructure, system administration, security, team leadership."
               }
             ]
           }
@@ -240,8 +229,7 @@
             "finishDate": "2018-10-31",
             "challenges": [
               {
-                "description": "System administration, cloud infrastructure, security.",
-                "skills": "Seguridad informática · Cisco Networking · Directorio activo · Windows Server · Azure Active Directory · Linux · Seguridad de red · Administración de sistemas"
+                "description": "System administration, cloud infrastructure, security."
               }
             ]
           }
@@ -258,8 +246,7 @@
             "finishDate": "2018-05-31",
             "challenges": [
               {
-                "description": "System administration, network security, virtualization.",
-                "skills": "Seguridad informática · Cisco Networking · Directorio activo · Windows Server · Azure Active Directory · Linux · Seguridad de red · VMware · Virtualización"
+                "description": "System administration, network security, virtualization."
               }
             ]
           }
@@ -276,8 +263,7 @@
             "finishDate": "2018-01-31",
             "challenges": [
               {
-                "description": "System administration, network security, ERP systems, virtualization.",
-                "skills": "Seguridad informática · Cisco Networking · Linux · Seguridad de red · SAP ERP · VMware · Virtualización"
+                "description": "System administration, network security, ERP systems, virtualization."
               }
             ]
           }
@@ -521,42 +507,6 @@
         },
         "finishDate": "2014-06-01"
       }
-    ],
-    "certifications": [
-      {
-        "name": "Google Analytics 4 Certification",
-        "associatedWith": "Google",
-        "issuedOn": "2026-01-15",
-        "credentialId": "GA4-2026",
-        "credentialUrl": "https://analytics.google.com"
-      },
-      {
-        "name": "Microsoft Certified: Azure AI Fundamentals",
-        "associatedWith": "Microsoft",
-        "issuedOn": "2025-12-01"
-      },
-      {
-        "name": "Microsoft Certified: Security, Compliance, and Identity Fundamentals",
-        "associatedWith": "Microsoft",
-        "issuedOn": "2025-06-01"
-      },
-      {
-        "name": "Multicloud Network Associate",
-        "associatedWith": "Aviatrix",
-        "issuedOn": "2024-11-01",
-        "credentialUrl": "https://aviatrix.com"
-      },
-      {
-        "name": "Microsoft Certified: Azure Fundamentals",
-        "associatedWith": "Microsoft",
-        "issuedOn": "2024-10-01"
-      },
-      {
-        "name": "Certified ScrumMaster (CSM)",
-        "associatedWith": "Scrum Manager",
-        "issuedOn": "2022-06-01",
-        "credentialId": "40086"
-      }
     ]
   },
   "careerPreferences": {
@@ -609,14 +559,6 @@
       },
       {
         "name": "Python",
-        "type": "technology"
-      },
-      {
-        "name": "Prometheus",
-        "type": "technology"
-      },
-      {
-        "name": "Grafana",
         "type": "technology"
       }
     ]
