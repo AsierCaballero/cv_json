@@ -12,13 +12,7 @@
       "description": "Consultor especializado en transformación y modernización cloud con más de 11 años de experiencia en consultoría tecnológica. Mi trayectoria combina expertise profundo en DevOps, arquitectura de soluciones cloud empresariales y automatización de procesos, con capacidad comprobada para liderar proyectos complejos en entornos multi-cloud (Azure, AWS, GCP, OCI).\n\nMi enfoque se centra en traducir necesidades de negocio en arquitecturas escalables, seguras y eficientes. Diseño landing zones empresariales con Terraform modular, implemento pipelines CI/CD automatizados, y orquesto infraestructuras Kubernetes a nivel de producción. Tengo experiencia particularmente sólida en migraciones cloud, infraestructura como código (IaC), observabilidad extremo a extremo (Prometheus, Grafana, Loki), y seguridad por diseño.\n\nComo Lead Developer, también colaboro activamente en desarrollo fullstack (React, Next.js, TypeScript) y automatización intelligent con n8n, mostrando versatilidad más allá del rol tradicional de DevOps. Estoy comprometido con la excelencia operativa, documentación exhaustiva y comunicación clara con equipos técnicos y stakeholders empresariales.\n\nActualmente en consultoría freelance, trabajando con clientes internacionales en proyectos de modernización cloud, automatización empresarial y arquitectura de plataformas de alto rendimiento.",
       "avatar": {
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/10/12/f01bb481-e120-4150-b6c6-4e933a3c3855_captura-de-pantalla-.png",
-        "alt": "Asier Caballero Rodríguez"
-      },
-      "location": {
-        "notes": "Autocompleted using Google Maps API",
-        "country": "España",
-        "region": "Andalucía",
-        "municipality": "Málaga"
+        "alt": "Captura de pantalla 2024-10-12 a las 10.45.36.png"
       }
     },
     "relevantLinks": [
@@ -34,38 +28,6 @@
   },
   "experience": {
     "jobs": [
-      {
-        "organization": {
-          "name": "Claxo (Freelance)"
-        },
-        "roles": [
-          {
-            "name": "Lead Developer",
-            "startDate": "2026-03-01",
-            "challenges": [
-              {
-                "description": "Lead developer en SaaS B2B para digitalización de dealerships de vehículos usados. Responsable de arquitectura técnica, resolución de bugs críticos y feature development. Stack: Next.js 14/15, TypeScript, MongoDB, Vercel, Supabase, Tailwind, shadcn/ui, Jotai, NextAuth.js v5. Implementación de analytics con GA4 + MongoDB fallback. Evaluación e integración de OCR (Google Cloud Vision + Tesseract.js) para digitización de documentos vehiculares. Resolución de issues complejos en integración de webhooks Mercado Libre. Rol: Arquitecto técnico y principal contributor del codebase. Impacto: 99% uptime, reducción de time-to-market en features."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "THS Sampling Solutions (Freelance)"
-        },
-        "roles": [
-          {
-            "name": "DevOps & Automation Engineer",
-            "startDate": "2026-03-01",
-            "challenges": [
-              {
-                "description": "Automatización end-to-end de flujos de reportería manual basados en Nevis EDT. Implementación de n8n workflows para parsing de ZIP/PDF, extracción de metadatos con regex y pdfjs-dist, gestión dinámica de rutas de archivos, logging en MongoDB y notificaciones Slack. RGPD-compliant: sin APIs LLM externas en Phase 1. Entrega: 9 documentos técnicos (especificaciones, sprint plan, infra checklist, onboarding templates). Modelo: retainer 40h/mes sobre base GCP. Impacto: reducción de 95% en tiempo de filing manual, audit trail completo, escalabilidad a 500+ reportes/mes."
-              }
-            ]
-          }
-        ]
-      },
       {
         "organization": {
           "name": "Cipher/Prosegur (Freelance)"
@@ -102,16 +64,16 @@
       },
       {
         "organization": {
-          "name": "VGED/Volkswagen (Freelance)"
+          "name": "Movildata (Freelance)"
         },
         "roles": [
           {
-            "name": "Principal Cloud Architect",
-            "startDate": "2025-11-01",
-            "finishDate": "2026-06-30",
+            "name": "Senior DevOps Engineer",
+            "startDate": "2026-03-01",
+            "finishDate": "2026-08-01",
             "challenges": [
               {
-                "description": "Diseño e implementación de plataforma cloud empresarial desde cero para automotive. Azure stack: AKS (Kubernetes production-grade), Recovery Services, Cosmos DB, SQL DB, Redis, Service Bus, Key Vault, Storage, Front Door, Private Endpoints, Log Analytics. Terraform 25+ módulos reutilizables + Terragrunt para multi-entorno (dev/staging/prod). Arquitectura de alta disponibilidad: multi-AZ, blue-green deployments, Velero disaster recovery. Migración Traefik desde Azure App Routing (zero downtime). Auditoría exhaustiva: 62 assets evaluados (97.6% compliance, 17 gaps identificados y remediados). OTSI vulnerability automation, Angular 17 archetype. Entrega: documentación exhaustiva, playbooks operativos, handoff a team interno. Impacto: plataforma enterprise-grade, cumplimiento de SLAs 99.95%, escalabilidad a 10,000+ users."
+                "description": "Lead DevOps transformation en telematics platform. AWS eu-south-2: ECS Fargate, Kinesis on-demand, Redis, RDS, DMS migration blue-green, KMS encryption. GitLab CI/CD: resolución de ~latest component versioning errors, implementación SemVer con automated tagging, GPG commit signing. Infrastructure recovery: importación de 38 recursos AWS desde estado corrupted. Observabilidad: stack Prometheus 3.1.0, Grafana 12.4.2 LTS, Alloy 1.15.3, Loki connectivity fixes, out-of-order sample resolution (10m tsdb window). Telematics ECS service: 7-day Kinesis retention, KMS encryption, SG rules. Impacto: 99.95% uptime, sub-100ms latency microservices, eliminación de deployment blockers, observabilidad enterprise-grade."
               }
             ]
           }
@@ -119,15 +81,31 @@
       },
       {
         "organization": {
-          "name": "Movildata (Freelance)"
+          "name": "THS Sampling Solutions (Freelance)"
         },
         "roles": [
           {
-            "name": "Senior DevOps Engineer",
-            "startDate": "2026-04-01",
+            "name": "DevOps & Automation Engineer",
+            "startDate": "2026-03-01",
             "challenges": [
               {
-                "description": "Lead DevOps transformation en telematics platform. AWS eu-south-2: ECS Fargate, Kinesis on-demand, Redis, RDS, DMS migration blue-green, KMS encryption. GitLab CI/CD: resolución de ~latest component versioning errors, implementación SemVer con automated tagging, GPG commit signing (fingerprint 76F4DB9297DD592FF00604B122F24BAD3BC43559). Infrastructure recovery: importación de 38 recursos AWS desde estado corrupted. Observabilidad: stack Prometheus 3.1.0, Grafana 12.4.2 LTS, Alloy 1.15.3, Loki connectivity fixes, out-of-order sample resolution (10m tsdb window). Telematics ECS service: 7-day Kinesis retention, KMS encryption, SG rules. Impacto: 99.95% uptime, sub-100ms latency microservices, eliminación de deployment blockers, observabilidad enterprise-grade."
+                "description": "Automatización end-to-end de flujos de reportería manual basados en Nevis EDT. Implementación de n8n workflows para parsing de ZIP/PDF, extracción de metadatos con regex y pdfjs-dist, gestión dinámica de rutas de archivos, logging en MongoDB y notificaciones Slack. RGPD-compliant: sin APIs LLM externas en Phase 1. Entrega: 9 documentos técnicos (especificaciones, sprint plan, infra checklist, onboarding templates). Modelo: retainer 40h/mes sobre base GCP. Impacto: reducción de 95% en tiempo de filing manual, audit trail completo, escalabilidad a 500+ reportes/mes."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Claxo (Freelance)"
+        },
+        "roles": [
+          {
+            "name": "Lead Developer",
+            "startDate": "2026-03-01",
+            "challenges": [
+              {
+                "description": "Lead developer en SaaS B2B para digitalización de dealerships de vehículos usados. Responsable de arquitectura técnica, resolución de bugs críticos y feature development. Stack: Next.js 14/15, TypeScript, MongoDB, Vercel, Supabase, Tailwind, shadcn/ui, Jotai, NextAuth.js v5. Implementación de analytics con GA4 + MongoDB fallback. Evaluación e integración de OCR (Google Cloud Vision + Tesseract.js) para digitización de documentos vehiculares. Resolución de issues complejos en integración de webhooks Mercado Libre. Rol: Arquitecto técnico y principal contributor del codebase. Impacto: 99% uptime, reducción de time-to-market en features."
               }
             ]
           }
@@ -145,6 +123,23 @@
             "challenges": [
               {
                 "description": "Diseño e implementación de módulos Terraform reutilizables para landing zones Azure empresariales. Arquitecturas multi-suscripción complejas: segregación de recursos, gobernanza centralizada, políticas compliance y seguridad en capas. Infraestructura como código centralizada: gestión integral de recursos cloud, consistencia, auditoría completa, reducción de errores manuales. Orquestación multi-entorno (dev, staging, prod) con control centralizado de estado y políticas de acceso. CI/CD automatizado: validación de código, versionado centralizado, testing de módulos. Impacto: landing zones standardizadas, reducción de deployment time 50%, compliance automático, escalabilidad a 200+ recursos."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "VGED/Volkswagen (Freelance)"
+        },
+        "roles": [
+          {
+            "name": "Principal Cloud Architect",
+            "startDate": "2025-11-01",
+            "finishDate": "2026-06-30",
+            "challenges": [
+              {
+                "description": "Diseño e implementación de plataforma cloud empresarial desde cero para automotive. Azure stack: AKS (Kubernetes production-grade), Recovery Services, Cosmos DB, SQL DB, Redis, Service Bus, Key Vault, Storage, Front Door, Private Endpoints, Log Analytics. Terraform 25+ módulos reutilizables + Terragrunt para multi-entorno (dev/staging/prod). Arquitectura de alta disponibilidad: multi-AZ, blue-green deployments, Velero disaster recovery. Migración Traefik desde Azure App Routing (zero downtime). Auditoría exhaustiva: 62 assets evaluados (97.6% compliance, 17 gaps identificados y remediados). OTSI vulnerability automation, Angular 17 archetype. Entrega: documentación exhaustiva, playbooks operativos, handoff a team interno. Impacto: plataforma enterprise-grade, cumplimiento de SLAs 99.95%, escalabilidad a 10,000+ users."
               }
             ]
           }
@@ -287,115 +282,13 @@
     "hardSkills": [
       {
         "skill": {
-          "name": "Azure",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "AWS",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Google Cloud Platform",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Oracle Cloud Infrastructure",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Kubernetes",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Docker",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Terraform",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Terraform Modules",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Terragrunt",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Azure DevOps",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "GitLab CI/CD",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Jenkins",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "ArgoCD",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Prometheus",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Grafana",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Loki",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Elasticsearch",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Velero",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Python",
+          "name": "Azure",
           "type": "technology"
         }
       },
@@ -407,7 +300,13 @@
       },
       {
         "skill": {
-          "name": "PowerShell",
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Elasticsearch",
           "type": "technology"
         }
       },
@@ -419,49 +318,19 @@
       },
       {
         "skill": {
-          "name": "Linux",
+          "name": "Google Cloud",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Next.js",
+          "name": "Grafana",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "React",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "TypeScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "MongoDB",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "PostgreSQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "n8n",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Nginx",
+          "name": "Jenkins",
           "type": "technology"
         }
       },
@@ -473,7 +342,79 @@
       },
       {
         "skill": {
-          "name": "Tailwind CSS",
+          "name": "Kubernetes",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Linux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NextJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Nginx",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PostgreSQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PowerShell",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Prometheus",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Tailwind",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Terraform",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TypeScript",
           "type": "technology"
         }
       },
@@ -485,13 +426,7 @@
       },
       {
         "skill": {
-          "name": "GDPR Compliance",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Security Auditing",
+          "name": "n8n",
           "type": "technology"
         }
       }
@@ -522,15 +457,6 @@
         }
       ]
     },
-    "preferences": {
-      "preferredRoles": [
-        "Senior DevOps Engineer",
-        "Cloud Architect",
-        "Infrastructure Architect",
-        "SRE Lead",
-        "Platform Engineer"
-      ]
-    },
     "status": "searchingActively",
     "requirements": {
       "contractTypes": [
@@ -542,11 +468,7 @@
   "manfredSpecificData": {
     "mainStackTechs": [
       {
-        "name": "Kubernetes",
-        "type": "technology"
-      },
-      {
-        "name": "Terraform",
+        "name": "AWS",
         "type": "technology"
       },
       {
@@ -554,11 +476,15 @@
         "type": "technology"
       },
       {
-        "name": "AWS",
+        "name": "Kubernetes",
         "type": "technology"
       },
       {
         "name": "Python",
+        "type": "technology"
+      },
+      {
+        "name": "Terraform",
         "type": "technology"
       }
     ]
