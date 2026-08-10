@@ -147,6 +147,48 @@
       },
       {
         "organization": {
+          "name": "IOON Technologies (HPE)"
+        },
+        "roles": [
+          {
+            "name": "Automation Engineer",
+            "startDate": "2025-03-01",
+            "finishDate": "2025-11-01",
+            "competences": [
+              {
+                "name": "Ansible",
+                "type": "technology"
+              },
+              {
+                "name": "Azure",
+                "type": "technology"
+              },
+              {
+                "name": "ELK",
+                "type": "technology"
+              },
+              {
+                "name": "Grafana",
+                "type": "technology"
+              },
+              {
+                "name": "Prometheus",
+                "type": "technology"
+              },
+              {
+                "name": "RedHat",
+                "type": "technology"
+              },
+              {
+                "name": "Terraform",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "HSI Group"
         },
         "roles": [
