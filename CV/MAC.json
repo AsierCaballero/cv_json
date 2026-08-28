@@ -52,8 +52,8 @@
         "roles": [
           {
             "name": "Senior DevOps Engineer",
-            "startDate": "2026-03-01",
-            "finishDate": "2026-08-01",
+            "startDate": "2026-01-01",
+            "finishDate": "2026-07-31",
             "challenges": [
               {
                 "description": "Lead DevOps transformation en telematics platform. AWS eu-south-2: ECS Fargate, Kinesis on-demand, Redis, RDS, DMS migration blue-green, KMS encryption. GitLab CI/CD: resolución de ~latest component versioning errors, implementación SemVer con automated tagging, GPG commit signing. Infrastructure recovery: importación de 38 recursos AWS desde estado corrupted. Observabilidad: stack Prometheus 3.1.0, Grafana 12.4.2 LTS, Alloy 1.15.3, Loki connectivity fixes, out-of-order sample resolution (10m tsdb window). Telematics ECS service: 7-day Kinesis retention, KMS encryption, SG rules. Impacto: 99.95% uptime, sub-100ms latency microservices, eliminación de deployment blockers, observabilidad enterprise-grade."
@@ -69,7 +69,8 @@
         "roles": [
           {
             "name": "DevOps & Automation Engineer",
-            "startDate": "2026-03-01",
+            "startDate": "2026-04-01",
+            "finishDate": "2026-07-31",
             "challenges": [
               {
                 "description": "Automatización end-to-end de flujos de reportería manual basados en Nevis EDT. Implementación de n8n workflows para parsing de ZIP/PDF, extracción de metadatos con regex y pdfjs-dist, gestión dinámica de rutas de archivos, logging en MongoDB y notificaciones Slack. RGPD-compliant: sin APIs LLM externas en Phase 1. Entrega: 9 documentos técnicos (especificaciones, sprint plan, infra checklist, onboarding templates). Modelo: retainer 40h/mes sobre base GCP. Impacto: reducción de 95% en tiempo de filing manual, audit trail completo, escalabilidad a 500+ reportes/mes."
@@ -135,8 +136,8 @@
         "roles": [
           {
             "name": "Automation Engineer",
-            "startDate": "2025-03-01",
-            "finishDate": "2025-11-01",
+            "startDate": "2025-04-01",
+            "finishDate": "2025-11-30",
             "competences": [
               {
                 "name": "Ansible",
