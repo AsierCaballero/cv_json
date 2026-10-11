@@ -47,16 +47,15 @@
       },
       {
         "organization": {
-          "name": "Movildata (Freelance)"
+          "name": "Claxo (Freelance)"
         },
         "roles": [
           {
-            "name": "Senior DevOps Engineer",
+            "name": "Lead Developer",
             "startDate": "2026-03-01",
-            "finishDate": "2026-08-01",
             "challenges": [
               {
-                "description": "Lead DevOps transformation en telematics platform. AWS eu-south-2: ECS Fargate, Kinesis on-demand, Redis, RDS, DMS migration blue-green, KMS encryption. GitLab CI/CD: resolución de ~latest component versioning errors, implementación SemVer con automated tagging, GPG commit signing. Infrastructure recovery: importación de 38 recursos AWS desde estado corrupted. Observabilidad: stack Prometheus 3.1.0, Grafana 12.4.2 LTS, Alloy 1.15.3, Loki connectivity fixes, out-of-order sample resolution (10m tsdb window). Telematics ECS service: 7-day Kinesis retention, KMS encryption, SG rules. Impacto: 99.95% uptime, sub-100ms latency microservices, eliminación de deployment blockers, observabilidad enterprise-grade."
+                "description": "Lead developer en SaaS B2B para digitalización de dealerships de vehículos usados. Responsable de arquitectura técnica, resolución de bugs críticos y feature development. Stack: Next.js 14/15, TypeScript, MongoDB, Vercel, Supabase, Tailwind, shadcn/ui, Jotai, NextAuth.js v5. Implementación de analytics con GA4 + MongoDB fallback. Evaluación e integración de OCR (Google Cloud Vision + Tesseract.js) para digitización de documentos vehiculares. Resolución de issues complejos en integración de webhooks Mercado Libre. Rol: Arquitecto técnico y principal contributor del codebase. Impacto: 99% uptime, reducción de time-to-market en features."
               }
             ]
           }
@@ -80,32 +79,16 @@
       },
       {
         "organization": {
-          "name": "Claxo (Freelance)"
+          "name": "Movildata (Freelance)"
         },
         "roles": [
           {
-            "name": "Lead Developer",
+            "name": "Senior DevOps Engineer",
             "startDate": "2026-03-01",
+            "finishDate": "2026-08-01",
             "challenges": [
               {
-                "description": "Lead developer en SaaS B2B para digitalización de dealerships de vehículos usados. Responsable de arquitectura técnica, resolución de bugs críticos y feature development. Stack: Next.js 14/15, TypeScript, MongoDB, Vercel, Supabase, Tailwind, shadcn/ui, Jotai, NextAuth.js v5. Implementación de analytics con GA4 + MongoDB fallback. Evaluación e integración de OCR (Google Cloud Vision + Tesseract.js) para digitización de documentos vehiculares. Resolución de issues complejos en integración de webhooks Mercado Libre. Rol: Arquitecto técnico y principal contributor del codebase. Impacto: 99% uptime, reducción de time-to-market en features."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Accenture Cloud DevOps Engineer (Cajamar)"
-        },
-        "roles": [
-          {
-            "name": "Cloud Architect & Terraform Lead",
-            "startDate": "2025-11-01",
-            "finishDate": "2026-02-28",
-            "challenges": [
-              {
-                "description": "Diseño e implementación de módulos Terraform reutilizables para landing zones Azure empresariales. Arquitecturas multi-suscripción complejas: segregación de recursos, gobernanza centralizada, políticas compliance y seguridad en capas. Infraestructura como código centralizada: gestión integral de recursos cloud, consistencia, auditoría completa, reducción de errores manuales. Orquestación multi-entorno (dev, staging, prod) con control centralizado de estado y políticas de acceso. CI/CD automatizado: validación de código, versionado centralizado, testing de módulos. Impacto: landing zones standardizadas, reducción de deployment time 50%, compliance automático, escalabilidad a 200+ recursos."
+                "description": "Lead DevOps transformation en telematics platform. AWS eu-south-2: ECS Fargate, Kinesis on-demand, Redis, RDS, DMS migration blue-green, KMS encryption. GitLab CI/CD: resolución de ~latest component versioning errors, implementación SemVer con automated tagging, GPG commit signing. Infrastructure recovery: importación de 38 recursos AWS desde estado corrupted. Observabilidad: stack Prometheus 3.1.0, Grafana 12.4.2 LTS, Alloy 1.15.3, Loki connectivity fixes, out-of-order sample resolution (10m tsdb window). Telematics ECS service: 7-day Kinesis retention, KMS encryption, SG rules. Impacto: 99.95% uptime, sub-100ms latency microservices, eliminación de deployment blockers, observabilidad enterprise-grade."
               }
             ]
           }
@@ -123,6 +106,23 @@
             "challenges": [
               {
                 "description": "Diseño e implementación de plataforma cloud empresarial desde cero para automotive. Azure stack: AKS (Kubernetes production-grade), Recovery Services, Cosmos DB, SQL DB, Redis, Service Bus, Key Vault, Storage, Front Door, Private Endpoints, Log Analytics. Terraform 25+ módulos reutilizables + Terragrunt para multi-entorno (dev/staging/prod). Arquitectura de alta disponibilidad: multi-AZ, blue-green deployments, Velero disaster recovery. Migración Traefik desde Azure App Routing (zero downtime). Auditoría exhaustiva: 62 assets evaluados (97.6% compliance, 17 gaps identificados y remediados). OTSI vulnerability automation, Angular 17 archetype. Entrega: documentación exhaustiva, playbooks operativos, handoff a team interno. Impacto: plataforma enterprise-grade, cumplimiento de SLAs 99.95%, escalabilidad a 10,000+ users."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Accenture Cloud DevOps Engineer (Cajamar)"
+        },
+        "roles": [
+          {
+            "name": "Cloud Architect & Terraform Lead",
+            "startDate": "2025-11-01",
+            "finishDate": "2026-02-28",
+            "challenges": [
+              {
+                "description": "Diseño e implementación de módulos Terraform reutilizables para landing zones Azure empresariales. Arquitecturas multi-suscripción complejas: segregación de recursos, gobernanza centralizada, políticas compliance y seguridad en capas. Infraestructura como código centralizada: gestión integral de recursos cloud, consistencia, auditoría completa, reducción de errores manuales. Orquestación multi-entorno (dev, staging, prod) con control centralizado de estado y políticas de acceso. CI/CD automatizado: validación de código, versionado centralizado, testing de módulos. Impacto: landing zones standardizadas, reducción de deployment time 50%, compliance automático, escalabilidad a 200+ recursos."
               }
             ]
           }
